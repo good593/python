@@ -1,0 +1,13 @@
+# 가상환경
+.venv
+# cashe
+__pycache__
+# checkpoints
+.ipynb_checkpoints
+# data
+data
+# 모델
+*.pth
+*.onnx
+# macbook
+.DS_Store
